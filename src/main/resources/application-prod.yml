@@ -7,5 +7,6 @@ spring:
       port: 27017
       database: journalDb
 
+
 server:
   port: 8081
