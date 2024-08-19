@@ -92,8 +92,6 @@ JournalApp is a Spring Boot-based web application that allows users to create, r
   
 ### Future Enhancements
 
-- Implement role-based access control.
-- Add search functionality for journal entries.
 - Develop a frontend for easier interaction with the API.
 
 ## Acknowledgments
